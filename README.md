@@ -32,7 +32,6 @@ I'm a DevOps Engineer with a passion for continuous learning, open-source contri
 <!-- Get in Touch -->
 ## 📫 Let's Connect
 - 💬 Don't hesitate to reach out for collaborations, questions, or just a friendly chat.
-- 📧 You can email me at: your.email@example.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/mknnyk)
 - 🐦 Follow me on [Twitter](https://twitter.com/bluexorsist)
 
