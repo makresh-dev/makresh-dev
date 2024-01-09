@@ -8,12 +8,11 @@ I'm a DevOps Engineer with a passion for continuous learning, open-source contri
 - 💻 I'm always eager to explore new technologies and expand my skill set.
 - 🌱 I believe in the power of DevOps to create efficient, automated, and scalable solutions.
 - 🧠 I'm also into Machine Learning and Artificial Intelligence, constantly experimenting and creating AI-driven solutions.
-- 🌐 I love working on both the server and client sides of applications, making me a Full-Stack enthusiast.
 
 <!-- DevOps Tools -->
 ## 🔧 DevOps Toolbox
 - 🛠️ Docker | Kubernetes
-- 🔄 CI/CD | Jenkins | Travis CI
+- 🔄 CI/CD | Jenkins | ArgoCD
 - 📦 Terraform | Ansible
 - 🐳 Containerization | Orchestration
 
@@ -22,12 +21,6 @@ I'm a DevOps Engineer with a passion for continuous learning, open-source contri
 - 🧠 Deep Learning | Neural Networks
 - 📊 Data Science | Data Visualization
 - 🤝 AI for Social Good
-
-<!-- Full-Stack Development -->
-## 💼 Full-Stack Development
-- 🌐 Front-end: HTML | CSS | JavaScript | React | NextJS
-- 🖥️ Back-end: Node.js | Express
-- 🐍 Python | Django
 
 <!-- Get in Touch -->
 ## 📫 Let's Connect
